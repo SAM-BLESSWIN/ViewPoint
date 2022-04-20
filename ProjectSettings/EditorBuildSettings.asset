@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Rachit/Sound Main Menu.unity
+    guid: df9462752a3a3404bbcc7d21717f0c30
+  - enabled: 1
+    path: Assets/Scenes/Sam/Level_1.unity
+    guid: cee2d127a4f858843a1318ce6fc3c545
+  - enabled: 1
+    path: Assets/Scenes/Mitesh/MK 4.unity
+    guid: bc3b84ee6fd916b4787fcb91c1761332
+  - enabled: 1
+    path: Assets/Scenes/Mitesh/MK 1.unity
+    guid: 3f7980417f2f77e4c927a2d5797f77cd
+  - enabled: 1
+    path: Assets/Scenes/Mitesh/MK 2.unity
+    guid: 29dea7f873abe8e49a569d756b3ff485
+  - enabled: 1
+    path: Assets/Scenes/Mitesh/MK 3.unity
+    guid: b529bbeadfa04bd4a85ab7d845fc3ce1
+  m_configObjects: {}
